@@ -6,11 +6,6 @@
 
 <p align="center"><img src="assets/id-dashboard.svg?v=1" alt="Soumik Das ID card hanging on a lanyard" width="480"></p>
 
-## Projects
-
-| Project | Repository |
-| --- | --- |
-| **COLLISION-DETECTION-ALGO** | [SoumikDas007/COLLISION-DETECTION-ALGO](https://github.com/SoumikDas007/COLLISION-DETECTION-ALGO) |
 
 <p align="center"><img src="assets/connect.svg?v=1" alt="Let's connect: GitHub, Instagram and email" width="100%"></p>
 
